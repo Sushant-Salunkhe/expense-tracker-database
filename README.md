@@ -1,7 +1,7 @@
 # Full Stack Expense Tracker - Database Part
 
 This repository contains only the **database schema** for the Expense Tracker project.
-The design is compatible with **Oracle 11g and earlier versions**.
+The design is compatible with **Oracle**.
 
 ## Completed
 - Created `users` table for authentication
